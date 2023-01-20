@@ -1,0 +1,9 @@
+{
+	"name": "loggerpro",
+	"description": "A modern and pluggable logging framework for Delphi",
+	"version": "1.4.1",
+	"homepage": "github.com/danieleteti/loggerpro/",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {}
+}
